@@ -1,0 +1,167 @@
+<style>
+.pozadinauser {
+    background-color: #330000;
+}
+
+.opacity {
+    background-color: rgba(51, 0, 0, 0.5);
+    max-width: 320px;
+    margin: auto;
+}
+
+.prikaz_slike {
+    height: 77vh;
+
+}
+
+@media only screen and (max-width: 575px) {
+    .prikaz_slike {
+        height: 72vh;
+        object-fit: fill;
+        padding-bottom: 70px;
+        padding-top: 70px;
+    }
+}
+
+.color {
+    background-color: #ffe6e6;
+}
+
+.colordark {
+    background-color: #330000;
+}
+
+.jumbotron {
+    font-family: 'Parisienne', cursive;
+    color: #ffe6e6;
+    background-color: #330000;
+}
+
+.fontuser {
+    font-family: 'Parisienne', cursive;
+}
+
+.fontuserv {
+    /* font-size: 28px; */
+    font-family: 'Parisienne', cursive;
+}
+
+.bojazatekstmenu, .bojaicon, .nav-link, .text_table {
+    color: #ffe6e6;
+}
+
+#menu a:hover {
+    color: red;
+}
+
+#hoverheader:hover {
+    color: red;
+}
+
+.stiluser {
+    background-color: #330000;
+    height: 1px;
+}
+
+.footerbrand {
+    color: #330000;
+    font-family: 'Parisienne', cursive;
+}
+
+.bojatekstafooter, .bojatekstakartice, .bojateksta {
+    color: #330000;
+}
+
+.navbar {
+    border-bottom-style: solid;
+    border-bottom-color: #ffe6e6;
+    background-color: #330000;;
+
+}
+
+.navbar-brand {
+    font-family: 'Parisienne', cursive;
+    color: #ffe6e6;
+}
+
+.nav-link:hover {
+    color: #330000;
+    background-color: #ffe6e6;
+}
+
+#velicina_slika_user {
+    width: 260px;
+    height: 170px;
+}
+
+.velicina_kartice_user {
+    height: 260px;
+}
+
+@media only screen and (max-width: 575px) {
+    .velicina_kartice_user {
+        height: 20%;
+    }
+
+}
+
+.fontslova {
+
+    font-family: 'Parisienne', cursive;
+    font-size: 22px;
+}
+
+.dodaj {
+    color: #330000;
+    background-color: #ffe6ef;
+    border: solid;
+    font-size: 20px;
+}
+
+.hover:hover {
+    background-color: #330000;
+    color: #ffe6e6;
+}
+
+#hover:hover {
+    color: #330000;
+    background-color: #ffe6e6;
+}
+
+.modal-content {
+    border: solid;
+    background-color: #ffe6e6;
+}
+
+.modal-header {
+    background-color: #330000;
+    color: #ffe6e6;
+}
+
+.slikanasaprica {
+    height: 370px;
+    width: auto;
+}
+
+@media only screen and (max-width: 350px) {
+    .slikanasaprica {
+        height: 200px;
+        width: auto;
+    }
+}
+
+@media only screen and (max-width: 245px) {
+    .slikanasaprica {
+        display: none;
+    }
+}
+
+#validationCustom03 {
+    height: 100px;
+}
+
+.potvrda {
+    color: #ffe6e6;
+}
+
+</style>
